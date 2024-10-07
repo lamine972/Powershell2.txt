@@ -9,24 +9,24 @@ Historique.txt
 
 
 
+listing.txt
+  Directory: /Users/lams/EvenFolder
 
-    Directory: /Users/lams/EvenFolder
-
-UnixMode         User Group         LastWriteTime         Size
---------         ---- -----         -------------         ----
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
+UnixMode         User Group         LastWriteTime         Size Name
+--------         ---- -----         -------------         ---- ----
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File10
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File2
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File4
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File6
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File8
 
     Directory: /Users/lams/OddFolder
 
-UnixMode         User Group         LastWriteTime         Size
---------         ---- -----         -------------         ----
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
--rw-r--r--       lams staff       10/6/2024 19:56            0
+UnixMode         User Group         LastWriteTime         Size Name
+--------         ---- -----         -------------         ---- ----
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File1
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File3
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File5
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File7
+-rw-r--r--       lams staff       6/10/2024 19:56            0 File9
 
