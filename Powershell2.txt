@@ -1,0 +1,32 @@
+Historique.txt
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.138 . "/Users/lams/Desktop/Visual Studio Code.ap…
+   2        0.008 Move-Item -Path ~/FolderTest1/File2,~/FolderTest1/File4 -Destination ~/EvenFolder
+   3        0.020 Move-Item -Path ~/FolderTest1/File5,~/FolderTest1/File3,~/FolderTest1/File1 -Destination ~/OddFolder  
+   4        0.005 Move-Item -Path ~/FolderTest2/File7,~/FolderTest2/File9 -Destination ~/OddFolder   
+   5       0.005 Move-Item -Path ~/FolderTest2/File10,~/FolderTest2/File8,~/FolderTest1/File6 -Destination ~/EvenFolder  
+
+
+
+
+    Directory: /Users/lams/EvenFolder
+
+UnixMode         User Group         LastWriteTime         Size
+--------         ---- -----         -------------         ----
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+
+    Directory: /Users/lams/OddFolder
+
+UnixMode         User Group         LastWriteTime         Size
+--------         ---- -----         -------------         ----
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+-rw-r--r--       lams staff       10/6/2024 19:56            0
+
